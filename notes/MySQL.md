@@ -35,7 +35,7 @@
 ## B+ Tree 原理
 
 ### 1. 数据结构
-
+https://www.cnblogs.com/tongongV/p/10952102.html
 B Tree 指的是 Balance Tree，也就是平衡树。平衡树是一颗查找树，并且所有叶子节点位于同一层。
 
 B+ Tree 是基于 B Tree 和叶子节点顺序访问指针进行实现，它具有 B Tree 的平衡性，并且通过顺序访问指针来提高区间查询的性能。
